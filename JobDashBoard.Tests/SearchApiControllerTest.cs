@@ -19,32 +19,39 @@ namespace JobDashBoard.Tests
     [TestFixture]
     public class SearchApiControllerTest
     {
-        ITimeSheetService _timesheetService;
-        ITimeSheetRespository _timesheetRespository;
-        List<TimeSheet> _timesheets;
+        private ITimeSheetService _timesheetService;
+        private ITimeSheetRespository _timesheetRespository;
+        private List<TimeSheet> _timesheets;
+        private SearchApiController _searchApiController;
         private DateTime beginDate;
         private DateTime endDate;
 
         [SetUp]
         public void SetUp()
         {
+            beginDate = DateTime.Parse("2019-09-16");
+
+            endDate = DateTime.Parse("2019-09-24");
+
             _timesheets = SetupTimeSheets();
 
             _timesheetRespository = SetupTimeSheetRespository();
 
             _timesheetService = new TimeSheetService(_timesheetRespository);
 
+            _searchApiController = new SearchApiController(_timesheetService);
+
 
         }
 
 
-        public List<TimeSheet> SetupTimeSheets()
+        private List<TimeSheet> SetupTimeSheets()
         {
             var timesheets = JobDashBoardInitializer.GetTimeSheets();
             return timesheets;
         }
 
-        public ITimeSheetRespository SetupTimeSheetRespository()
+        private ITimeSheetRespository SetupTimeSheetRespository()
         {
 
             // Init repository
@@ -62,12 +69,30 @@ namespace JobDashBoard.Tests
 
 
         [Test]
+        public void ControlerResponseShouldNotNull()
+        {
+
+            var apiResponse = _searchApiController.GetWorkHours(beginDate.ToString(), endDate.ToString());
+
+            Assert.IsNotNull(apiResponse);
+        }
+
+
+
+        [Test]
+        public void ControlerResponseShouldGetSuccessStatusCode()
+        {
+
+            var apiResponse = _searchApiController.GetWorkHours(beginDate.ToString(), endDate.ToString());
+
+            Assert.IsTrue(apiResponse.IsSuccessStatusCode);
+        }
+
+
+        [Test]
         public void ControlerShouldGetWorkHours()
         {
-            beginDate = DateTime.Parse("2019-09-16");
-            endDate = DateTime.Parse("2019-09-24");
-
-            var _searchApiController = new SearchApiController(_timesheetService);
+            
 
            var result = _searchApiController.GetWorkHours(beginDate.ToString(), endDate.ToString());
 
