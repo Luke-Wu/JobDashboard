@@ -10,3 +10,14 @@ C:\E Driver\Luke Projects\DashBoard\JobDashBoard\JobDashBoard.Models\obj\Debug\J
 C:\E Driver\Luke Projects\DashBoard\JobDashBoard\JobDashBoard.Models\obj\Debug\JobDashBoard.Models.csproj.CopyComplete
 C:\E Driver\Luke Projects\DashBoard\JobDashBoard\JobDashBoard.Models\obj\Debug\JobDashBoard.Models.dll
 C:\E Driver\Luke Projects\DashBoard\JobDashBoard\JobDashBoard.Models\obj\Debug\JobDashBoard.Models.pdb
+C:\E Driver\JobDashboard\JobDashBoard.Models\bin\Debug\JobDashBoard.Models.dll.config
+C:\E Driver\JobDashboard\JobDashBoard.Models\bin\Debug\JobDashBoard.Models.dll
+C:\E Driver\JobDashboard\JobDashBoard.Models\bin\Debug\JobDashBoard.Models.pdb
+C:\E Driver\JobDashboard\JobDashBoard.Models\bin\Debug\EntityFramework.dll
+C:\E Driver\JobDashboard\JobDashBoard.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\E Driver\JobDashboard\JobDashBoard.Models\bin\Debug\EntityFramework.xml
+C:\E Driver\JobDashboard\JobDashBoard.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\E Driver\JobDashboard\JobDashBoard.Models\obj\Debug\JobDashBoard.Models.csproj.CoreCompileInputs.cache
+C:\E Driver\JobDashboard\JobDashBoard.Models\obj\Debug\JobDashBoard.Models.csproj.CopyComplete
+C:\E Driver\JobDashboard\JobDashBoard.Models\obj\Debug\JobDashBoard.Models.dll
+C:\E Driver\JobDashboard\JobDashBoard.Models\obj\Debug\JobDashBoard.Models.pdb

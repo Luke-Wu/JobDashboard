@@ -15,3 +15,22 @@ C:\E Driver\Luke Projects\DashBoard\JobDashBoard\JobDashBoard.DAL\obj\Debug\JobD
 C:\E Driver\Luke Projects\DashBoard\JobDashBoard\JobDashBoard.DAL\obj\Debug\JobDashBoard.DAL.csproj.CopyComplete
 C:\E Driver\Luke Projects\DashBoard\JobDashBoard\JobDashBoard.DAL\obj\Debug\JobDashBoard.DAL.dll
 C:\E Driver\Luke Projects\DashBoard\JobDashBoard\JobDashBoard.DAL\obj\Debug\JobDashBoard.DAL.pdb
+C:\E Driver\JobDashboard\JobDashBoard.DAL\bin\Debug\JobDashBoard.DAL.dll.config
+C:\E Driver\JobDashboard\JobDashBoard.DAL\bin\Debug\JobDashBoard.DAL.dll
+C:\E Driver\JobDashboard\JobDashBoard.DAL\bin\Debug\JobDashBoard.DAL.pdb
+C:\E Driver\JobDashboard\JobDashBoard.DAL\bin\Debug\EntityFramework.dll
+C:\E Driver\JobDashboard\JobDashBoard.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\E Driver\JobDashboard\JobDashBoard.DAL\bin\Debug\JobDashBoard.IDAL.dll
+C:\E Driver\JobDashboard\JobDashBoard.DAL\bin\Debug\JobDashBoard.Models.dll
+C:\E Driver\JobDashboard\JobDashBoard.DAL\bin\Debug\JobDashBoard.IDAL.pdb
+C:\E Driver\JobDashboard\JobDashBoard.DAL\bin\Debug\JobDashBoard.Models.pdb
+C:\E Driver\JobDashboard\JobDashBoard.DAL\bin\Debug\JobDashBoard.Models.dll.config
+C:\E Driver\JobDashboard\JobDashBoard.DAL\bin\Debug\EntityFramework.xml
+C:\E Driver\JobDashboard\JobDashBoard.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\E Driver\JobDashboard\JobDashBoard.DAL\obj\Debug\JobDashBoard.DAL.csprojAssemblyReference.cache
+C:\E Driver\JobDashboard\JobDashBoard.DAL\obj\Debug\JobDashBoard.DAL.Migrations.AddDataTables.resources
+C:\E Driver\JobDashboard\JobDashBoard.DAL\obj\Debug\JobDashBoard.DAL.csproj.GenerateResource.cache
+C:\E Driver\JobDashboard\JobDashBoard.DAL\obj\Debug\JobDashBoard.DAL.csproj.CoreCompileInputs.cache
+C:\E Driver\JobDashboard\JobDashBoard.DAL\obj\Debug\JobDashBoard.DAL.csproj.CopyComplete
+C:\E Driver\JobDashboard\JobDashBoard.DAL\obj\Debug\JobDashBoard.DAL.dll
+C:\E Driver\JobDashboard\JobDashBoard.DAL\obj\Debug\JobDashBoard.DAL.pdb

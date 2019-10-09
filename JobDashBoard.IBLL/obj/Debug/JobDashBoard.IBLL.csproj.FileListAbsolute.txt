@@ -8,3 +8,13 @@ C:\E Driver\Luke Projects\DashBoard\JobDashBoard\JobDashBoard.IBLL\obj\Debug\Job
 C:\E Driver\Luke Projects\DashBoard\JobDashBoard\JobDashBoard.IBLL\obj\Debug\JobDashBoard.IBLL.csproj.CopyComplete
 C:\E Driver\Luke Projects\DashBoard\JobDashBoard\JobDashBoard.IBLL\obj\Debug\JobDashBoard.IBLL.dll
 C:\E Driver\Luke Projects\DashBoard\JobDashBoard\JobDashBoard.IBLL\obj\Debug\JobDashBoard.IBLL.pdb
+C:\E Driver\JobDashboard\JobDashBoard.IBLL\bin\Debug\JobDashBoard.IBLL.dll
+C:\E Driver\JobDashboard\JobDashBoard.IBLL\bin\Debug\JobDashBoard.IBLL.pdb
+C:\E Driver\JobDashboard\JobDashBoard.IBLL\bin\Debug\JobDashBoard.Models.dll
+C:\E Driver\JobDashboard\JobDashBoard.IBLL\bin\Debug\JobDashBoard.Models.pdb
+C:\E Driver\JobDashboard\JobDashBoard.IBLL\bin\Debug\JobDashBoard.Models.dll.config
+C:\E Driver\JobDashboard\JobDashBoard.IBLL\obj\Debug\JobDashBoard.IBLL.csprojAssemblyReference.cache
+C:\E Driver\JobDashboard\JobDashBoard.IBLL\obj\Debug\JobDashBoard.IBLL.csproj.CoreCompileInputs.cache
+C:\E Driver\JobDashboard\JobDashBoard.IBLL\obj\Debug\JobDashBoard.IBLL.csproj.CopyComplete
+C:\E Driver\JobDashboard\JobDashBoard.IBLL\obj\Debug\JobDashBoard.IBLL.dll
+C:\E Driver\JobDashboard\JobDashBoard.IBLL\obj\Debug\JobDashBoard.IBLL.pdb

@@ -8,3 +8,13 @@ C:\E Driver\Luke Projects\DashBoard\JobDashBoard\JobDashBoard.IDAL\obj\Debug\Job
 C:\E Driver\Luke Projects\DashBoard\JobDashBoard\JobDashBoard.IDAL\obj\Debug\JobDashBoard.IDAL.csproj.CopyComplete
 C:\E Driver\Luke Projects\DashBoard\JobDashBoard\JobDashBoard.IDAL\obj\Debug\JobDashBoard.IDAL.dll
 C:\E Driver\Luke Projects\DashBoard\JobDashBoard\JobDashBoard.IDAL\obj\Debug\JobDashBoard.IDAL.pdb
+C:\E Driver\JobDashboard\JobDashBoard.IDAL\bin\Debug\JobDashBoard.IDAL.dll
+C:\E Driver\JobDashboard\JobDashBoard.IDAL\bin\Debug\JobDashBoard.IDAL.pdb
+C:\E Driver\JobDashboard\JobDashBoard.IDAL\bin\Debug\JobDashBoard.Models.dll
+C:\E Driver\JobDashboard\JobDashBoard.IDAL\bin\Debug\JobDashBoard.Models.pdb
+C:\E Driver\JobDashboard\JobDashBoard.IDAL\bin\Debug\JobDashBoard.Models.dll.config
+C:\E Driver\JobDashboard\JobDashBoard.IDAL\obj\Debug\JobDashBoard.IDAL.csprojAssemblyReference.cache
+C:\E Driver\JobDashboard\JobDashBoard.IDAL\obj\Debug\JobDashBoard.IDAL.csproj.CoreCompileInputs.cache
+C:\E Driver\JobDashboard\JobDashBoard.IDAL\obj\Debug\JobDashBoard.IDAL.csproj.CopyComplete
+C:\E Driver\JobDashboard\JobDashBoard.IDAL\obj\Debug\JobDashBoard.IDAL.dll
+C:\E Driver\JobDashboard\JobDashBoard.IDAL\obj\Debug\JobDashBoard.IDAL.pdb

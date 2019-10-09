@@ -1,4 +1,5 @@
-﻿using JobDashBoard.Models;
+﻿using JobDashBoard.DAL.Migrations;
+using JobDashBoard.Models;
 using System.Data.Entity;
 using System.Data.Entity.ModelConfiguration.Conventions;
 
@@ -11,7 +12,8 @@ namespace JobDashBoard.DAL
     {
         public JobDashBoardDbContext() : base("JobDashBoardDbContext")
         {
-            Database.SetInitializer(new JobDashBoardInitializer());
+           // Database.SetInitializer(new JobDashBoardInitializer());
+           Database.SetInitializer(new MigrateDatabaseToLatestVersion<JobDashBoardDbContext, Configuration>());
         }
 
 

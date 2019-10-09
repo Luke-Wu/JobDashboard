@@ -32,6 +32,7 @@ namespace JobDashBoard.Models
         /// </summary>
         public DateTime? BirthDate { get; set; }
 
+
         public virtual ICollection<Task> Tasks { get; set; }
 
     }

@@ -1,34 +1,46 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Data.Entity;
-using JobDashBoard.Models;
-
-namespace JobDashBoard.DAL
+﻿namespace JobDashBoard.DAL.Migrations
 {
-    /// <summary>
-    /// Initialize database using sample datas
-    /// </summary>
-    public class JobDashBoardInitializer : DropCreateDatabaseIfModelChanges<JobDashBoardDbContext> 
+    using JobDashBoard.Models;
+    using System;
+    using System.Collections.Generic;
+    using System.Data.Entity;
+    using System.Data.Entity.Migrations;
+    using System.Linq;
+
+    internal sealed class Configuration : DbMigrationsConfiguration<JobDashBoard.DAL.JobDashBoardDbContext>
     {
-        protected override void Seed(JobDashBoardDbContext context)
+        public Configuration()
         {
-           
+            AutomaticMigrationsEnabled = false;
+        }
+
+        protected override void Seed(JobDashBoard.DAL.JobDashBoardDbContext context)
+        {
+            //  This method will be called after migrating to the latest version.
+
+            //  You can use the DbSet<T>.AddOrUpdate() helper extension method
+            //  to avoid creating duplicate seed data.
+
+
             GetStaffs().ForEach(s => context.Staffs.Add(s));
             context.SaveChanges();
 
-         
+
             GetTasks().ForEach(t => context.Tasks.Add(t));
             context.SaveChanges();
 
-         
+
             GetTimeSheets().ForEach(t => context.TimeSheets.Add(t));
             context.SaveChanges();
 
             base.Seed(context);
 
+
+
+
+
         }
+
 
 
         /// <summary>
@@ -107,6 +119,9 @@ namespace JobDashBoard.DAL
             return timesheets;
 
         }
+
+
+
 
     }
 }
